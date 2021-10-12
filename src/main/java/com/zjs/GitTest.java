@@ -23,5 +23,6 @@ public class GitTest {
         System.out.println("gitee pull!");
         System.out.println("gitHub 回滚1!");
         System.out.println("gitHub 回滚2!");
+        System.out.println("gitHub 回滚3!");
     }
 }
